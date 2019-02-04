@@ -1,0 +1,24 @@
+body{
+	margin: 0% 10% 0% 15%;
+	background-image: url('images/bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+}
+img{
+	width: 150px;
+	margin: 5% 0% 0% 0%;
+}
+nav{
+	font-size: 30px;
+}
+
+.col{
+	margin: 10% 0% 0% 7%;
+	float: left;
+}
+.name_header{
+	margin: 0% 0% 5% 0%;
+}
